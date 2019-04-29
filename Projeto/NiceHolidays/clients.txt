@@ -1,0 +1,14 @@
+carlos
+nif carlos
+5
+rua do carlos / 3 / 4 / 4200-carlos / porto de carlos
+1
+6
+::::::::::
+jose
+nif jose
+5
+rua do jose / 3 / 3 / 423412 / porto
+1
+5
+::::::::::

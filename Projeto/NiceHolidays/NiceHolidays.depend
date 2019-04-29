@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1554723839 source:c:\users\user\desktop\niceholidays\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<algorithm>
+	"agencia.h"
+	"cliente.h"
+	"pacote.h"
+
+1554723657 source:c:\users\user\desktop\niceholidays\agencia.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"agencia.h"
+
+1554725003 source:c:\users\user\desktop\niceholidays\cliente.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"cliente.h"
+
+1554723710 source:c:\users\user\desktop\niceholidays\pacote.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	"pacote.h"
+
+1554711930 c:\users\user\desktop\niceholidays\agencia.h
+
+1554630267 c:\users\user\desktop\niceholidays\cliente.h
+
+1554630263 c:\users\user\desktop\niceholidays\pacote.h
+
+1555096275 source:c:\users\user\desktop\projeto\niceholidays\agencia.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"agencia.h"
+
+1555096839 c:\users\user\desktop\projeto\niceholidays\agencia.h
+
+1555096249 source:c:\users\user\desktop\projeto\niceholidays\cliente.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"cliente.h"
+
+1555097088 c:\users\user\desktop\projeto\niceholidays\cliente.h
+
+1554723839 source:c:\users\user\desktop\projeto\niceholidays\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<algorithm>
+	"agencia.h"
+	"cliente.h"
+	"pacote.h"
+
+1554630263 c:\users\user\desktop\projeto\niceholidays\pacote.h
+
+1555096221 source:c:\users\user\desktop\projeto\niceholidays\pacote.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	"pacote.h"
+
